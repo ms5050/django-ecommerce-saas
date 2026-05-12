@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="screenshots/logo.png" alt="eCommerce SaaS Logo" width="300"/>
+
   # eCommerce SaaS Platform
 
   **Multi-Tenant Django eCommerce with Stripe Subscriptions & Store Admin Panel**
@@ -15,6 +17,10 @@
 ---
 
 A full-stack, multi-tenant SaaS eCommerce platform built with Django 4.1. Store owners subscribe to create and manage their own online shop — with product management, order tracking, team access, and customer checkout all under one platform. Payments are handled end-to-end by Stripe.
+
+> **⚠️ Confidentiality Notice**
+> **Source code repository is private due to client confidentiality.**
+> This document serves as a technical case study, showcasing architecture, UX implementation, and feature engineering for portfolio purposes.
 
 ---
 
